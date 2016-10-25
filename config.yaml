@@ -1,0 +1,15 @@
+hasCJKLanguage: true
+
+baseurl: https://yoshiomiyamae.github.io/
+title: 一即一切 一切即一
+languageCode: ja
+theme: hugo-ym
+
+googleAnalytics: UA-19839277-3
+
+author:
+  name: Yoshio Miyamae
+  homepage: https://github.com/yoshiomiyamae
+  github: yoshiomiyamae
+
+metaDataFormat: yaml
